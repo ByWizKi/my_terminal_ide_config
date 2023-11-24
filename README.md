@@ -4,7 +4,7 @@
 
 - On supprime l'ancienne arborescence de l'utilisateur
 ```bash
-sudo rm -rf Desktop Downloads Movies Pictures Documents Library Music Public
+sudo cd ~ && rm -rf Desktop Downloads Movies Pictures Documents Library Music Public
 ```
 - On crée la nouvelle arborescence
   ```
