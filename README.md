@@ -25,7 +25,7 @@ PS : Mes documents sont stocker dans le cloud voila pourquoi ici j'en est pas be
 PS : Remplacer par votre nom pour la création du dossier
 
 ```bash
-cd ~ && mkdir nono_dev && mkdir apps downloads projet
+cd ~ && mkdir nono_dev && cd nono_dev && mkdir apps downloads projet
 ```
 
 ## Étape 1 - Installation de HomeBrew
