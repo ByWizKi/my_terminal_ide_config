@@ -32,11 +32,7 @@ cd ~ && mkdir nono_dev && cd nono_dev && mkdir apps downloads projet
 
 - Cette commande provient directement du site officiel de HomeBrew https://brew.sh
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-&&
-brew update
-&&
-brew upgrade
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && brew update && brew upgrade
 ```
 ### Etape 1.2 Installation de Wget -via Homebrew
 ```bash
